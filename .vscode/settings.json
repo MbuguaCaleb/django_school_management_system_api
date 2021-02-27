@@ -1,0 +1,8 @@
+   {
+       "python.pythonPath": "/home/mbuguacaleb/Desktop/my_programs/python/freeCodeSchoolAPI/venv/bin/python3",
+       "editor.tabSize": 4,
+       "python.linting.enabled": true,
+       "python.linting.pylintEnabled": true,
+       "python.linting.flake8Enabled": false
+
+   }

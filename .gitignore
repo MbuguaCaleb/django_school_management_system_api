@@ -233,6 +233,7 @@ tags
 [._]*.un~
 
 ### vscode ###
+./vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json

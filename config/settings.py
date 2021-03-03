@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 
 # Application definition
-
+# whenever i install something whether an app or a package you must intialize it here
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -38,7 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'apps.users'
+    'apps.utils',
+    'apps.users',
+    'apps.certificates',
+    'apps.waitlist'
 ]
 
 MIDDLEWARE = [

@@ -2,7 +2,7 @@ from rest_framework import serializers, viewsets
 # breinfs in the User Model
 from django.contrib.auth import get_user_model
 from .models import UserProfile
-
+  
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
